@@ -32,7 +32,7 @@
 }
 
 .hero-bg {
-    background-image: url(/Assets/Hero-bg.png);
+    background-image: url(../Assets/Hero-bg.png);
     height: 698px;
     width: 100%;
     text-align: center;
